@@ -1,0 +1,17 @@
+Dependencies:
+
+
+1. clone the nrf-research firmware: git clone https://github.com/BastilleResearch/nrf-research-firmware
+
+2. install python modules:
+   a. sudo apt-get install sdcc binutils python python-pip
+   b. sudo pip install -U pip
+   c. sudo pip install -U -I pyusb
+   d. sudo pip install -U platformio
+   
+3. enter to the cloned directory:
+   a. sudo make
+   b. sudo make install
+
+4. after all the dependencies: git clone our repo =>
+
