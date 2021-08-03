@@ -12,6 +12,9 @@ Dependencies:
 3. enter to the cloned directory:
    a. sudo make
    b. sudo make install
+   (Make sure you unplug the device and plug him back in)
 
-4. after all the dependencies: git clone our repo =>
+4. after all the dependencies: git clone our repo => https://github.com/Cyber-Course-Projects/KeyJack.git
+
+5. run "sudo python3 ./nrf24-scanner.py" to start the program
 
